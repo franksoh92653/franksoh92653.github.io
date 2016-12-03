@@ -1,0 +1,61 @@
+		/*Header*/
+	
+	Header {
+		Height: 300px;
+		color: white;
+		backgroud-image: url(http://source.unspl.com/1000x200?);
+		backgroup-repeat: no-repeat;
+		;
+		backgroup-size: cover;
+	}
+	/*Introduction */
+	
+	blockquote: {
+		background-image: url(../images/incon-quote.png);
+		width: 300px;
+		backgroup-size: 30px30p;
+		backgroup-repeat;
+		no repeat;
+		padding-left: 40px;
+		background-position: right bottom;
+	}
+	/* Size of each block*/
+	
+	.thumbnail {
+		width: calc(25%-20px) float: left;
+		margin: 10px;
+	}
+	
+	.thumbnail-img {
+		width: 100%
+	}
+	
+	.caption-title {
+		font-family: Arial, sans-serif;
+		font-size: 20ps;
+		font-weight: 900;
+		.caption-body {
+			line-height: 1.5;
+		}
+		.caption-btn {
+			text-decoration: none;
+		}
+		.caption-btn {
+			display: block;
+			font-size: 16px;
+			width: 120px;
+			height;
+			text-align: center;
+			border;
+			1px solid #676D79;
+			line-height: 30px;
+			border-radius: 5px;
+		}
+		.caption-btn: link {
+			color: white;
+			background-color: #676D79;
+		}
+		.caption-btn: visited {
+			color: white;
+			background-color: #676D79;
+		}

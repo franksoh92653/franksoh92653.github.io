@@ -1,0 +1,23 @@
+/* All basic settings
+*/
+
+
+/** { box-sizing:border-box}*/
+
+
+/*
+
+Reset padding margin*/
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 p,
+section,
+article,
+div {
+	padding: 0;
+	margin: 0
+}
